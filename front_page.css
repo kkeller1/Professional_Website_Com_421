@@ -6,10 +6,17 @@ body {
 	display: block;
 	background-color: lavender;
 }
+
 nav {
 	position: relative;
-	margin-top: -70px;
-	margin-bottom: 32px;
+  margin-top: 30px;
+  margin-bottom: -50px;
+  margin-left: -10px;
+
+}
+
+p {
+	font-size: 17px;
 }
 
 .home_link {
@@ -29,6 +36,7 @@ nav {
 	width: 400px;
   position: relative;
   margin-left: 311px;
+  margin-bottom: -60px;
 }
 
 .me_photo {
@@ -44,13 +52,13 @@ nav {
 	width: 350px;
   position: relative;
   margin-left: 362px;
-  margin-top: -253px;
+  margin-top: -178px;
 }
 
 .about_me_content{
 	font-size: 16px;
 	position: relative;
-  margin-top: 15px;
+  margin-top: -45px;
   margin-bottom: 15px;
 }
 
